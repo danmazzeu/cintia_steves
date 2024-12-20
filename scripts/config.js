@@ -1,5 +1,5 @@
 // Variables
-const titleName = 'Cóntia Esteves';
+const titleName = 'Cíntia Esteves';
 const crpNumber = 'CRP ' + '06/153207';
 const linkedin = '';
 const whatsapp = '+55' + '16992009521';
